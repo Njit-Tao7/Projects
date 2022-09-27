@@ -1,0 +1,30 @@
+ul {
+  color: black;
+}
+li {
+  display: inline;
+  margin-right: 110px;
+  color: black;
+}
+nav {
+  padding: 10px;
+  background-color: azure;
+  text-decoration-color: black;
+
+  color: black;
+}
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
