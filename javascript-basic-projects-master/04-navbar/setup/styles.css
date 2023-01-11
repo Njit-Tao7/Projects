@@ -244,4 +244,7 @@ nav {
   .social-icons a:hover {
     color: var(--clr-primary-7);
   }
+  .container-md{
+    align-items: center;
+  }
 }
